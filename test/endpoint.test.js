@@ -1,7 +1,6 @@
 'use strict';
 
-const endpoint = require('..');
-const Endpoint = endpoint.Endpoint;
+const Endpoint = require('..');
 
 describe('Endpoint constructor:', () => {
 
