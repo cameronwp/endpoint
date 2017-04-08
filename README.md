@@ -1,0 +1,1 @@
+# Simplified socket.io messaging.
