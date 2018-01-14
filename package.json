@@ -1,5 +1,5 @@
 {
-  "name": "@marvin-dss/endpoint",
+  "name": "@cameronwp/endpoint",
   "version": "0.1.0",
   "description": "Simplified socket.io messaging.",
   "main": "index.js",
