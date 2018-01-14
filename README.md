@@ -2,7 +2,11 @@
 
 _Abstracts socket.io messaging into a simpler interface._
 
-This is the base class inherited by [client-endpoint]() and [server-endpoint]().
+This is the base class inherited by [client-endpoint](https://github.com/cameronwp/client-endpoint) and [server-endpoint](https://github.com/cameronwp/server-endpoint).
+
+```sh
+npm i -S @cameronwp/endpoint
+```
 
 ## API
 
